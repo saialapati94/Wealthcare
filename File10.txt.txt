@@ -1,2 +1,2 @@
 GitHub is a Vesion Control System
-Thank You Teaching GitHub!!!
+Git is a tool to INTERACT WITH gIThUB
